@@ -1,3 +1,3 @@
-Feat: Update Menari-core submodule with training_loop component
+Feat: Update Menari-core submodule with text_generation component
 
-This commit updates the Menari-core submodule to include the newly added training_loop component.
+This commit updates the Menari-core submodule to include the newly added text_generation component.
