@@ -1,8 +1,3 @@
-Feat: Initial setup of Menari LLM project with Menari-core submodule
+Feat: Update Menari-core submodule with tokenization component
 
-This commit establishes the foundational structure for the Menari LLM project:
-- Created main Menari repository.
-- Added high-level README.md for the overall project.
-- Created Menari-core sub-repository for LLM component implementation.
-- Added Menari-core as a Git submodule to the main Menari repository.
-- Moved menari_llm_todo.txt to the main Menari repository and added it to .gitignore.
+This commit updates the Menari-core submodule to include the newly added tokenization component.
