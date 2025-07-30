@@ -1,3 +1,3 @@
-Feat: Update Menari-core submodule with decoder_only_architecture component
+Feat: Update Menari-core submodule with training_loop component
 
-This commit updates the Menari-core submodule to include the newly added decoder_only_architecture component.
+This commit updates the Menari-core submodule to include the newly added training_loop component.
