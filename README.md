@@ -30,4 +30,4 @@ Contributions are welcome! This project is a learning journey, and any insights 
 
 ## Contact
 
-MemaroX - [Your GitHub Profile Link](https://github.com/MemaroX)
+MemaroX - [https://github.com/MemaroX](https://github.com/MemaroX)
